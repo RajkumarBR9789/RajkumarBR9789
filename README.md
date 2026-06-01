@@ -137,14 +137,6 @@ print(me.motto())
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RajkumarBR9789&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajkumarBR9789&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
-</div>
-
 ---
 
 ## 🔥 GitHub Streak
@@ -162,12 +154,6 @@ print(me.motto())
 </div>
 
 ---
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RajkumarBR9789&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&margin-h=10" />
-</div>
 
 ---
 
